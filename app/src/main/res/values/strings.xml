@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="error">An unexpected error occurred.</string>
+    <string name="internet_connection_failed">Couldn\'t reach server. Check your internet connection.</string>
+    <string name="no_results">No results found…</string>
+    <string name="hint">Type in a character</string>
+    <string name="name">Name:</string>
+    <string name="height">Height:</string>
+    <string name="gender">Gender:</string>
+    <string name="films">Films:</string>
+</resources>
