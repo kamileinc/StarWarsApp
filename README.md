@@ -5,4 +5,5 @@ In the app there is a recyclerView list for all of the characters, one can searc
 The project uses MVVM pattern, courutines, recyclerView, paging3, Dagger Hilt, Retrofit.
 
 Here's a preview:
+
 ![Alt Text](https://media.giphy.com/media/ZFZwBH51qiZ3BzvYid/giphy.gif)
